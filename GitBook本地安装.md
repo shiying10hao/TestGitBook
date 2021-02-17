@@ -22,11 +22,14 @@
 
 # GitBook运行
 
-* gitbook serve -p 8080 --默认端口4000
-* gitbook serve --port 2333 --指定端口
+* gitbook serve --port 2333 --指定端口,默认端口4000
 * gitbook serve &gt;&gt;/var/log/gitbook/serve.log 2&gt;&1 &   --gitbook后台运行
 
 * sudo npm install gitbook-pdf -g --输入为PDF文件，需要先使用NPM安装上gitbook pdf
+
+# GitBook停止
+
+* 删除“\_book”文件夹及所有文件，从新运行
 
 
 
