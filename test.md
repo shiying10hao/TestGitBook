@@ -9,7 +9,7 @@
 
 --[https://www.jb51.net/article/202124.htm](https://www.jb51.net/article/202124.htm)
 
-#### Node.js 镜像配置
+### Node.js 镜像配置
 
 * npm config set registry [http://registry.npm.taobao.org](http://registry.npm.taobao.org) --默认的镜像地址是在国外，国内访问速度极慢
 
