@@ -18,5 +18,12 @@
 * npm install gitbook-cli -g
 * gitbook --version 查看安装的版本信息
 
---https://www.mapull.com/gitbook/comscore/basic/install.htm
+--[https://www.mapull.com/gitbook/comscore/basic/install.htm](https://www.mapull.com/gitbook/comscore/basic/install.htm)
+
+# GitBook运行
+
+* gitbook serve -p 8080 --默认端口4000
+* sudo npm install gitbook-pdf -g --输入为PDF文件，需要先使用NPM安装上gitbook pdf
+
+
 
